@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahaoua
-- 👀 I’m interested in ...python java script 
-- 🌱 I’m currently learning ...java script 
+- 👀 I’m interested in ...python and java script 
+- 🌱 I’m currently learning ...java script language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
